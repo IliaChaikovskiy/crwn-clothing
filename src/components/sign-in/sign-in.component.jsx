@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 import FormInput from '../../components/form-input/form-input.component';
